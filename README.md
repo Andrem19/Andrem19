@@ -1,31 +1,32 @@
-# Remart / Andrem19
+# Andrew Remnev
 
-I build practical systems around AI automation, trading tools, dashboards, bots,
-and full-stack web products.
+**Software Engineer · AI Automation · Backend · Data Systems**
 
-## Focus
+I build practical software systems around AI agents, MCP tooling, data pipelines, backend services, browser automation, and full-stack products. My recent work focuses on reliable agent workflows and production-oriented automation, with additional experience in trading infrastructure and conventional web development.
 
-- AI-assisted research and planner/worker orchestration
-- FastAPI/Flask backends, React dashboards, Telegram automation
-- Trading analytics, market-data tooling, and bot monitoring
-- Python, TypeScript/JavaScript, Rust, Go, C#, Dart
+## Selected Projects
 
-## Featured Work
-
-| Project | Stack | What it shows |
+| Project | Stack | Highlights |
 | --- | --- | --- |
-| [IntelliNews](https://github.com/Andrem19/IntelliNews) | Python, FastAPI, PostgreSQL, React, LLM | Full-stack AI news intelligence platform with ingestion, enrichment, analytics, and map/admin UI |
-| [tbot_dashboard](https://github.com/Andrem19/tbot_dashboard) | React, Firebase, Vite | Live trading bot monitoring dashboard deployed with GitHub Pages |
-| [ORC_1](https://github.com/Andrem19/ORC_1) | Python | Planner/worker orchestration runtime with adapters, guardrails, structured reports, and tests |
-| [ROO_API](https://github.com/Andrem19/ROO_API) | TypeScript, VS Code | Local token-protected HTTP bridge for Roo Code automation |
-| [CHARBT_api](https://github.com/Andrem19/CHARBT_api) | Python, Flask, Stripe | Backend for a trading-analysis platform with auth, billing, storage, and deployment flow |
-| [ARB_SOL](https://github.com/Andrem19/ARB_SOL) | Rust, Solana | Off-chain Solana arbitrage scanner with DEX decoders and route search |
+| [Agent Reliability Lab](https://github.com/Andrem19/agent-reliability-lab) | Python, MCP, AI agents, testing | Causal fault-isolation and staged repair laboratory for agent + MCP stacks, with deterministic oracles, fuzzing, replay, safety controls, CI, and soak testing |
+| [Work Researcher MCP](https://github.com/Andrem19/work-researcher-mcp) | Python, MCP, Playwright, SQLite | UK job-search and application automation server with multi-source search, deduplication, CV matching, location intelligence, persistent browser workflows, and Google Drive integration |
+| [IntelliNews](https://github.com/Andrem19/IntelliNews) | Python, FastAPI, PostgreSQL, React, LLM | Full-stack news intelligence platform with ingestion, LLM enrichment, event consolidation, analytics, APIs, and map/admin interfaces |
+| [ARB_SOL](https://github.com/Andrem19/ARB_SOL) | Rust, Tokio, Solana | Async off-chain Solana DEX scanner with multi-provider RPC streaming, swap decoders, live route graphs, cycle search, and alerting |
+| [SushiHub](https://github.com/Andrem19/SushiHub) | ASP.NET Core, Angular, PostgreSQL | Full-stack ordering platform with authentication, payments, admin tooling, SignalR, email, image storage, and database migrations |
+| [AdviceMe](https://github.com/Andrem19/adviceme) | Go, gRPC, PostgreSQL | Backend service prototype using protobuf, sqlc, migrations, PASETO authentication, sessions, and tests |
 
-## More
+## Additional Engineering Work
 
-- Portfolio card: [BUSINESS_CARD](https://github.com/Andrem19/BUSINESS_CARD)
-- Games/prototypes: [Remaze](https://github.com/Andrem19/Remaze), [maze_and_traps](https://github.com/Andrem19/maze_and_traps), [Aether-Arena](https://github.com/Andrem19/Aether-Arena)
-- Bots and automation: [TELEGRAM_ENDPOINT](https://github.com/Andrem19/TELEGRAM_ENDPOINT), [VoicePlus](https://github.com/Andrem19/VoicePlus), [charbt_telegram_bot](https://github.com/Andrem19/charbt_telegram_bot)
+- [ROO_API](https://github.com/Andrem19/ROO_API) — token-protected local HTTP bridge for controlled Roo Code / VS Code automation.
+- [DeepResearchMcp](https://github.com/Andrem19/DeepResearchMcp) — compact MCP server that turns a research request into a sourced report while hiding low-level search orchestration from the calling model.
+
+## Core Technologies
+
+**Languages:** Python, TypeScript / JavaScript, Rust, Go, C#, SQL  
+**Backend & Data:** FastAPI, Flask, ASP.NET Core, PostgreSQL, SQLite, gRPC  
+**AI & Automation:** MCP, LLM integrations, agent orchestration, Playwright, browser automation  
+**Frontend:** React, Angular  
+**Engineering:** Git, CI, automated testing, Docker-oriented workflows, API design
 
 ## Contact
 
