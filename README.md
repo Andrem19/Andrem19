@@ -1,4 +1,4 @@
-# Andrew Rem
+# Andrew Remnev
 
 **Software Engineer · AI Automation · Backend · Data Systems**
 
@@ -31,4 +31,4 @@ I build practical software systems around AI agents, MCP tooling, data pipelines
 ## Contact
 
 - GitHub: [@Andrem19](https://github.com/Andrem19)
-- Email: admin@remart.ovh
+- Email: andrewremdev@outlook.com
