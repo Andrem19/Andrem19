@@ -1,4 +1,4 @@
-# Andrew Remnev
+# Andrew Rem
 
 **Software Engineer · AI Automation · Backend · Data Systems**
 
